@@ -4,4 +4,4 @@ I downloaded the hate crime data from NYC Open Data site: https://opendata.cityo
 
 I analyzed the hate crime data by victims demography, crime types.  
 I discovered that although the Jewish people has the most likely to experience hate crimes, the majority of attacks were related to property thefts. 
-The most of the physical attacks were targeted to Asians and Gay people. 
+The most of the hate crime related physical attacks in NYC were targeted to Asians and Gay people. 
